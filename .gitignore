@@ -1,0 +1,4 @@
+.venv312/
+mnist_digits/
+__pycache__/
+*.pyc
